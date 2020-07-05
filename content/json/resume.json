@@ -40,8 +40,7 @@
       "startDate": "2018-09-03",
       "endDate": "2020-03-12",
       "summary": "Development and maintenance of internal systems",
-      "highlights": [
-      ]
+      "highlights": []
     }
   ],
   "volunteer": [
@@ -163,12 +162,16 @@
   ],
   "interests": [
     {
-      "name": "Wildlife",
-      "keywords": ["Ferrets", "Unicorns"]
+      "name": "Cycling",
+      "keywords": []
     },
     {
-      "name": "Wildlife",
-      "keywords": ["Ferrets", "Unicorns"]
+      "name": "reading",
+      "keywords": ["dev.to","hackernoon","medium"]
+    },
+    {
+      "name": "see new technologies",
+      "keywords": []
     }
   ],
   "references": [
